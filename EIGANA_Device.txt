@@ -1,0 +1,7 @@
+message EIGANA_Device
+{
+	require Int DeviceNo;
+	require String DeviceName;
+	require Double BaseKV;
+	require String DeviceZone;
+}
